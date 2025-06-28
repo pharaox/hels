@@ -1,5 +1,4 @@
-﻿constant_02 = { priority = 50 }
-constant_03 = { priority = 50 }
+﻿constant_03 = { priority = 50 }
 constant_05 = { priority = 50 }
 constant_06 = { priority = 50 }
 constant_07 = { priority = 50 }
@@ -32,9 +31,7 @@ odalisque_07 = { priority = 50 }
 odalisque_08 = { priority = 50 }
 odalisque_10 = { priority = 50 }
 odalisque_11 = { priority = 50 }
-odalisque_12 = { priority = 50 }
 odalisque_13 = { priority = 50 }
-odalisque_14 = { priority = 50 }
 odalisque_16 = { priority = 50 }
 odalisque_17 = { priority = 50 }
 odalisque_18 = { priority = 50 }
@@ -48,7 +45,6 @@ odalisque_25 = { priority = 50 }
 odalisque_26 = { priority = 50 }
 odalisque_27 = { priority = 50 }
 odalisque_29 = { priority = 50 }
-odalisque_30 = { priority = 50 }
 odalisque_31 = { priority = 50 }
 odalisque_32 = { priority = 50 }
 odalisque_33 = { priority = 50 }
@@ -86,7 +82,6 @@ rape_16 = { priority = 50 }
 rape_17 = { priority = 50 }
 rape_18 = { priority = 50 }
 rape_19 = { priority = 50 }
-rape_21 = { priority = 50 }
 rape_22 = { priority = 50 }
 rape_23 = { priority = 50 }
 rosati_01 = { priority = 50 }

@@ -24,7 +24,7 @@ pilny_24.dds;;https://commons.wikimedia.org/wiki/File:The_Slave_Market_by_Otto_P
 
 # https://commons.wikimedia.org/wiki/Category:Orientalist_paintings_by_Benjamin-Constant
 #constant_01.dds;;https://commons.wikimedia.org/wiki/File:Benjamin-Constant-Harem_Scene-1876.jpg
-constant_02.dds;;https://commons.wikimedia.org/wiki/File:Benjamin-jean-joseph-constant-la-danse-u-foulard.jpg
+#constant_02.dds;;https://commons.wikimedia.org/wiki/File:Benjamin-jean-joseph-constant-la-danse-u-foulard.jpg
 constant_03.dds;;https://commons.wikimedia.org/wiki/File:Benjamin-Jean-Joseph-Constant-Une-Terrasse-Au-Maroc.jpg
 #constant_04.dds;Benjamin-Constant_-_Les_Chérifas.jpeg;https://commons.wikimedia.org/wiki/File:Benjamin-Constant_-_Les_Ch%C3%A9rifas.jpg
 constant_05.dds;;https://commons.wikimedia.org/wiki/File:1879_Benjamin-Constant_-_Favorite_of_the_Emir.jpg
@@ -72,7 +72,7 @@ rape_17.dds;Körkép_(Feszty_Árpád),_részlet,_lányrablás.jpeg;https://commo
 rape_18.dds;;https://commons.wikimedia.org/wiki/File:Johann_Moritz_Rugendas-el_rapto.jpg
 rape_19.dds;Ángel_DELLA_Valle_-_La_vuelta_del_malón_-_Google_Art_Project_(cropped).jpeg;https://commons.wikimedia.org/wiki/File:%C3%81ngel_DELLA_Valle_-_La_vuelta_del_mal%C3%B3n_-_Google_Art_Project_(cropped).jpg
 #rape_20.dds;;https://commons.wikimedia.org/wiki/File:RaidbyKURDS.jpg
-rape_21.dds;Evariste-Vital_Luminais_-_Pirates_normands_au_IXe_siècle.jpeg;https://commons.wikimedia.org/wiki/File:Evariste-Vital_Luminais_-_Pirates_normands_au_IXe_si%C3%A8cle.jpg
+#rape_21.dds;Evariste-Vital_Luminais_-_Pirates_normands_au_IXe_siècle.jpeg;https://commons.wikimedia.org/wiki/File:Evariste-Vital_Luminais_-_Pirates_normands_au_IXe_si%C3%A8cle.jpg
 rape_22.dds;;https://commons.wikimedia.org/wiki/File:Benjamin_Seizes_Daughter_of_Shiloh.jpg
 rape_23.dds;Enlèvement_de_Proserpine_d'après_by_Alessandro_Allori.jpeg;https://commons.wikimedia.org/wiki/File:Enl%C3%A8vement_de_Proserpine_d%27apr%C3%A8s_by_Alessandro_Allori.jpg;center;0;0;1045;785
 
@@ -138,9 +138,9 @@ odalisque_08.dds;;https://commons.wikimedia.org/wiki/File:Harem_Girl_-_Odalisque
 #odalisque_09.dds;;https://commons.wikimedia.org/wiki/File:Harem_Girls_-_Slave_Girls_-_Blas_Olleros_Quintana_(1852-1919).jpg
 odalisque_10.dds;;https://commons.wikimedia.org/wiki/File:Jacques_Baugnies_-_Dancing_in_a_Cafe_in_Cairo.jpg;center;0;320;989;989
 odalisque_11.dds;;https://commons.wikimedia.org/wiki/File:Manguin_odalisque.jpg
-odalisque_12.dds;;https://commons.wikimedia.org/wiki/File:Odalisque_Adrien_Tanoux).jpg
+#odalisque_12.dds;;https://commons.wikimedia.org/wiki/File:Odalisque_Adrien_Tanoux).jpg
 odalisque_13.dds;;https://commons.wikimedia.org/wiki/File:Odalisque_with_a_Fan_by_Guillaume_Seignac.jpg
-odalisque_14.dds;;https://commons.wikimedia.org/wiki/File:Paul_Le_Thimmonier_Odalisque.jpg
+#odalisque_14.dds;;https://commons.wikimedia.org/wiki/File:Paul_Le_Thimmonier_Odalisque.jpg
 #odalisque_15.dds;Petit_épouvantail_Rochegrosse.jpeg;https://commons.wikimedia.org/wiki/File:Petit_%C3%A9pouvantail_Rochegrosse.jpg
 odalisque_16.dds;;https://commons.wikimedia.org/wiki/File:Reclining_Odalisque_by_Guillaume_Seignac.jpg
 odalisque_17.dds;;https://commons.wikimedia.org/wiki/File:Richard_Hall_-_Odaliski_-_A_I_561_-_Finnish_National_Gallery.jpg;south
@@ -156,7 +156,7 @@ odalisque_26.dds;;https://commons.wikimedia.org/wiki/File:Comerre_Leon_Francois_
 odalisque_27.dds;;https://commons.wikimedia.org/wiki/File:Jan_Van_Beers_-_Lounging_Odalisque_with_Turtle.jpg;east
 #odalisque_28.dds;Żmurko_At_Padishah's_order.jpeg;https://commons.wikimedia.org/wiki/File:%C5%BBmurko_At_Padishah%27s_order.jpg
 odalisque_29.dds;;https://commons.wikimedia.org/wiki/File:A_harem_interior_(1846),_by_Wilhelm_Heinrich_Schlesinger.jpg;south
-odalisque_30.dds;;https://commons.wikimedia.org/wiki/File:Alphonse_Gaudefroy_-_Odalisca.jpg;center;55;0;808;808
+#odalisque_30.dds;;https://commons.wikimedia.org/wiki/File:Alphonse_Gaudefroy_-_Odalisca.jpg;center;55;0;808;808
 odalisque_31.dds;;https://commons.wikimedia.org/wiki/File:Alphonse_Pellet_-_A_Moment_of_Reverie_in_the_Harem.jpg
 odalisque_32.dds;;https://commons.wikimedia.org/wiki/File:Charles_edouard_de_beaumont_in_the_harem093219).jpg
 odalisque_33.dds;;https://commons.wikimedia.org/wiki/File:Delapoer_Downing_-_The_End_of_a_Weary_Day.jpg

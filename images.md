@@ -2,7 +2,6 @@
 
 | DDS File | Wikimedia Image |
 |---|---|
-| constant_02.dds | [Benjamin-jean-joseph-constant-la-danse-u-foulard.jpg](https://commons.wikimedia.org/wiki/File:Benjamin-jean-joseph-constant-la-danse-u-foulard.jpg) |
 | constant_03.dds | [Benjamin-Jean-Joseph-Constant-Une-Terrasse-Au-Maroc.jpg](https://commons.wikimedia.org/wiki/File:Benjamin-Jean-Joseph-Constant-Une-Terrasse-Au-Maroc.jpg) |
 | constant_05.dds | [1879_Benjamin-Constant_-_Favorite_of_the_Emir.jpg](https://commons.wikimedia.org/wiki/File:1879_Benjamin-Constant_-_Favorite_of_the_Emir.jpg) |
 | constant_06.dds | [Constant_odalisque.jpg](https://commons.wikimedia.org/wiki/File:Constant_odalisque.jpg) |
@@ -36,9 +35,7 @@
 | odalisque_08.dds | [Harem_Girl_-_Odalisque_-_Slave_Girl_-_Delphin_Enjolras_(French,_1857-1945).jpg](https://commons.wikimedia.org/wiki/File:Harem_Girl_-_Odalisque_-_Slave_Girl_-_Delphin_Enjolras_(French,_1857-1945).jpg) |
 | odalisque_10.dds | [Jacques_Baugnies_-_Dancing_in_a_Cafe_in_Cairo.jpg](https://commons.wikimedia.org/wiki/File:Jacques_Baugnies_-_Dancing_in_a_Cafe_in_Cairo.jpg) |
 | odalisque_11.dds | [Manguin_odalisque.jpg](https://commons.wikimedia.org/wiki/File:Manguin_odalisque.jpg) |
-| odalisque_12.dds | [Odalisque_Adrien_Tanoux).jpg](https://commons.wikimedia.org/wiki/File:Odalisque_Adrien_Tanoux).jpg) |
 | odalisque_13.dds | [Odalisque_with_a_Fan_by_Guillaume_Seignac.jpg](https://commons.wikimedia.org/wiki/File:Odalisque_with_a_Fan_by_Guillaume_Seignac.jpg) |
-| odalisque_14.dds | [Paul_Le_Thimmonier_Odalisque.jpg](https://commons.wikimedia.org/wiki/File:Paul_Le_Thimmonier_Odalisque.jpg) |
 | odalisque_16.dds | [Reclining_Odalisque_by_Guillaume_Seignac.jpg](https://commons.wikimedia.org/wiki/File:Reclining_Odalisque_by_Guillaume_Seignac.jpg) |
 | odalisque_17.dds | [Richard_Hall_-_Odaliski_-_A_I_561_-_Finnish_National_Gallery.jpg](https://commons.wikimedia.org/wiki/File:Richard_Hall_-_Odaliski_-_A_I_561_-_Finnish_National_Gallery.jpg) |
 | odalisque_18.dds | [Roybet_-_Odalisque.jpg](https://commons.wikimedia.org/wiki/File:Roybet_-_Odalisque.jpg) |
@@ -52,7 +49,6 @@
 | odalisque_26.dds | [Comerre_Leon_Francois_Study_For_Le_Manteau_Legendaire.jpg](https://commons.wikimedia.org/wiki/File:Comerre_Leon_Francois_Study_For_Le_Manteau_Legendaire.jpg) |
 | odalisque_27.dds | [Jan_Van_Beers_-_Lounging_Odalisque_with_Turtle.jpg](https://commons.wikimedia.org/wiki/File:Jan_Van_Beers_-_Lounging_Odalisque_with_Turtle.jpg) |
 | odalisque_29.dds | [A_harem_interior_(1846),_by_Wilhelm_Heinrich_Schlesinger.jpg](https://commons.wikimedia.org/wiki/File:A_harem_interior_(1846),_by_Wilhelm_Heinrich_Schlesinger.jpg) |
-| odalisque_30.dds | [Alphonse_Gaudefroy_-_Odalisca.jpg](https://commons.wikimedia.org/wiki/File:Alphonse_Gaudefroy_-_Odalisca.jpg) |
 | odalisque_31.dds | [Alphonse_Pellet_-_A_Moment_of_Reverie_in_the_Harem.jpg](https://commons.wikimedia.org/wiki/File:Alphonse_Pellet_-_A_Moment_of_Reverie_in_the_Harem.jpg) |
 | odalisque_32.dds | [Charles_edouard_de_beaumont_in_the_harem093219).jpg](https://commons.wikimedia.org/wiki/File:Charles_edouard_de_beaumont_in_the_harem093219).jpg) |
 | odalisque_33.dds | [Delapoer_Downing_-_The_End_of_a_Weary_Day.jpg](https://commons.wikimedia.org/wiki/File:Delapoer_Downing_-_The_End_of_a_Weary_Day.jpg) |
@@ -90,7 +86,6 @@
 | rape_17.dds | [Körkép_(Feszty_Árpád),_részlet,_lányrablás.jpeg](https://commons.wikimedia.org/wiki/File:K%C3%B6rk%C3%A9p_(Feszty_%C3%81rp%C3%A1d),_r%C3%A9szlet,_l%C3%A1nyrabl%C3%A1s.jpg) |
 | rape_18.dds | [Johann_Moritz_Rugendas-el_rapto.jpg](https://commons.wikimedia.org/wiki/File:Johann_Moritz_Rugendas-el_rapto.jpg) |
 | rape_19.dds | [Ángel_DELLA_Valle_-_La_vuelta_del_malón_-_Google_Art_Project_(cropped).jpeg](https://commons.wikimedia.org/wiki/File:%C3%81ngel_DELLA_Valle_-_La_vuelta_del_mal%C3%B3n_-_Google_Art_Project_(cropped).jpg) |
-| rape_21.dds | [Evariste-Vital_Luminais_-_Pirates_normands_au_IXe_siècle.jpeg](https://commons.wikimedia.org/wiki/File:Evariste-Vital_Luminais_-_Pirates_normands_au_IXe_si%C3%A8cle.jpg) |
 | rape_22.dds | [Benjamin_Seizes_Daughter_of_Shiloh.jpg](https://commons.wikimedia.org/wiki/File:Benjamin_Seizes_Daughter_of_Shiloh.jpg) |
 | rape_23.dds | [Enlèvement_de_Proserpine_d'après_by_Alessandro_Allori.jpeg](https://commons.wikimedia.org/wiki/File:Enl%C3%A8vement_de_Proserpine_d%27apr%C3%A8s_by_Alessandro_Allori.jpg) |
 | rosati_01.dds | [Inspecting_New_Arrivals_by_Giulio_Rosati_2.jpg](https://commons.wikimedia.org/wiki/File:Inspecting_New_Arrivals_by_Giulio_Rosati_2.jpg) |
