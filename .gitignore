@@ -3,4 +3,5 @@ images/
 .DS_Store
 .~lock.*
 ck3-tiger.out
+images.txt
 *.dds
