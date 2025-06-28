@@ -1,6 +1,6 @@
 # Images
 
-| DDS File | Wikimedia Image |
+| DDS File | Source |
 |---|---|
 | constant_03.dds | [Benjamin-Jean-Joseph-Constant-Une-Terrasse-Au-Maroc.jpg](https://commons.wikimedia.org/wiki/File:Benjamin-Jean-Joseph-Constant-Une-Terrasse-Au-Maroc.jpg) |
 | constant_05.dds | [1879_Benjamin-Constant_-_Favorite_of_the_Emir.jpg](https://commons.wikimedia.org/wiki/File:1879_Benjamin-Constant_-_Favorite_of_the_Emir.jpg) |
@@ -57,6 +57,21 @@
 | odalisque_37.dds | [Favorite_of_the_Seraglio_with_her_Handmaiden_(unknown_date),_by_Vasili_Kotarbinsky.jpg](https://commons.wikimedia.org/wiki/File:Favorite_of_the_Seraglio_with_her_Handmaiden_(unknown_date),_by_Vasili_Kotarbinsky.jpg) |
 | odalisque_38.dds | [Ferencz-Franz_Eisenhut_-_Before_Punishment.jpg](https://commons.wikimedia.org/wiki/File:Ferencz-Franz_Eisenhut_-_Before_Punishment.jpg) |
 | odalisque_39.dds | [Francesco_Ballesio_-_одалиска,_отдых.jpeg](https://commons.wikimedia.org/wiki/File:Francesco_Ballesio_-_%D0%BE%D0%B4%D0%B0%D0%BB%D0%B8%D1%81%D0%BA%D0%B0,_%D0%BE%D1%82%D0%B4%D1%8B%D1%85.jpg) |
+| odalisque_40.dds | [Francesco_Netti_-_Nudo_di_donna_su_una_ottomana.jpg](https://commons.wikimedia.org/wiki/File:Francesco_Netti_-_Nudo_di_donna_su_una_ottomana.jpg) |
+| odalisque_41.dds | [Giovanni_Costa_-_An_odalisque_with_a_red_fan.jpg](https://commons.wikimedia.org/wiki/File:Giovanni_Costa_-_An_odalisque_with_a_red_fan.jpg) |
+| odalisque_42.dds | [Jean_Jalabert_-_Odalisque.jpg](https://commons.wikimedia.org/wiki/File:Jean_Jalabert_-_Odalisque.jpg) |
+| odalisque_43.dds | [Ladies_of_the_harem_(unknown_date).,_by_Salvatore_Frangiamore.jpg](https://commons.wikimedia.org/wiki/File:Ladies_of_the_harem_(unknown_date).,_by_Salvatore_Frangiamore.jpg) |
+| odalisque_44.dds | [Luigi_mussini,_odalisca,_1862.jpg](https://commons.wikimedia.org/wiki/File:Luigi_mussini,_odalisca,_1862.jpg) |
+| odalisque_45.dds | [Léon_Herbo_-_Odalisque_à_la_panthère.jpeg](https://commons.wikimedia.org/wiki/File:L%C3%A9on_Herbo_-_Odalisque_%C3%A0_la_panth%C3%A8re.jpg) |
+| odalisque_46.dds | [Normand,_Ernest_-_Bondage_-_1890.jpg](https://commons.wikimedia.org/wiki/File:Normand,_Ernest_-_Bondage_-_1890.jpg) |
+| odalisque_47.dds | [Odalisca_Oriental_-_Raymond_Monvoisin.jpg](https://commons.wikimedia.org/wiki/File:Odalisca_Oriental_-_Raymond_Monvoisin.jpg) |
+| odalisque_48.dds | [Odalisque_(Exposition__Il_était_une_fois_l'Orient_Express_,_Paris)_(14559361654).jpeg](https://commons.wikimedia.org/wiki/File:Odalisque_(Exposition_%22Il_%C3%A9tait_une_fois_l%27Orient_Express%22,_Paris)_(14559361654).jpg) |
+| odalisque_49.dds | [Pasquale_Celommi_-_L'odalisca_(CelommiP-43).jpeg](https://commons.wikimedia.org/wiki/File:Pasquale_Celommi_-_L%27odalisca_(CelommiP-43).jpg) |
+| odalisque_50.dds | [Pauli_Odalisk.jpg](https://commons.wikimedia.org/wiki/File:Pauli_Odalisk.jpg) |
+| odalisque_51.dds | [Rochegrosse_The_Arab_guard.jpg](https://commons.wikimedia.org/wiki/File:Rochegrosse_The_Arab_guard.jpg) |
+| odalisque_52.dds | [Spiridon_-_Odalisca.jpg](https://commons.wikimedia.org/wiki/File:Spiridon_-_Odalisca.jpg) |
+| odalisque_53.dds | [Theodor_Aman_-_Baia_turcească.jpeg](https://commons.wikimedia.org/wiki/File:Theodor_Aman_-_Baia_turceasc%C4%83.jpg) |
+| odalisque_54.dds | [Vlaho_Bukovac_-_La_Grande_Iza_-_Google_Art_Project.jpg](https://commons.wikimedia.org/wiki/File:Vlaho_Bukovac_-_La_Grande_Iza_-_Google_Art_Project.jpg) |
 | pilny_01.dds | [A_dance_in_the_desert_(1898),_by_Otto_Pilny.jpg](https://commons.wikimedia.org/wiki/File:A_dance_in_the_desert_(1898),_by_Otto_Pilny.jpg) |
 | pilny_03.dds | [Dance_in_the_Desert.jpg](https://commons.wikimedia.org/wiki/File:Dance_in_the_Desert.jpg) |
 | pilny_04.dds | [Keep_resting_in_desert_with_enslaved_woman,_Otto_Pilny_(1866-1936).jpg](https://commons.wikimedia.org/wiki/File:Keep_resting_in_desert_with_enslaved_woman,_Otto_Pilny_(1866-1936).jpg) |
