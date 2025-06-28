@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Usage: ./generate_settings.sh <csv_file> <priority>
+# Usage: ./generate.sh <csv_file> <priority>
 
 CSV_FILE="$1"
 PRIORITY="${2:-50}"

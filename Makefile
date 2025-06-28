@@ -33,7 +33,7 @@ clean-convert:
 .PHONY: clean-generate
 clean-generate:
 	rm -rf gfx/interface/illustrations/loading_screens/*.txt
-	rm images.md
+	rm -f images.md
 
 .PHONY: clean-build
 clean-build:
