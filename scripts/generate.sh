@@ -7,15 +7,9 @@ PRIORITY="${2:-50}"
 LS_DIR=gfx/interface/illustrations/loading_screens
 SETTINGS_FILE="$LS_DIR/hels_loadscreen_settings.txt"
 MD_FILE="images.md"
-TN_FILE="thumbnail.png"
-TN_INPUT_FILE="images/Jean_Leon_Gerome_Selling_Slaves_in_Rome.jpg"
-TN_SIZE=1024x1024
-TN_GRAVITY=south
 
 # Clear output files
-> "$SETTINGS_FILE"
-> "$MD_FILE"
-rm -f $TN_FILE
+rm -f "$SETTINGS_FILE" "$MD_FILE"
 
 # Process all files in the LS directory
 for ls_file in "$LS_DIR"/*.dds; do
@@ -31,7 +25,7 @@ sed -i '1s/^/\xef\xbb\xbf/' "$SETTINGS_FILE"
 cat << 'EOF' > "$MD_FILE"
 # Images
 
-| DDS File | Wikimedia Image |
+| DDS File | Source |
 |---|---|
 EOF
 
@@ -49,6 +43,3 @@ sort "$CSV_FILE" | while IFS=';' read -r converted_filename original_filename ur
 	# Add MD file line
 	echo "| $converted_filename | [$original_filename]($url) |" >> "$MD_FILE"
 done
-
-# Generate thumbnail file
-convert "$TN_INPUT_FILE" -resize $TN_SIZE^ -gravity $TN_GRAVITY -extent $TN_SIZE "$TN_FILE"

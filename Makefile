@@ -13,6 +13,10 @@ convert: download
 generate: convert
 	scripts/generate.sh images.csv
 
+.PHONY: check
+check: download
+	scripts/check.sh
+
 .PHONY: build
 build: clean-build generate
 	mkdir -p tmp/$(NAME)
@@ -38,7 +42,7 @@ clean-generate:
 .PHONY: clean-build
 clean-build:
 	rm -rf tmp
-	rm -f ck3-tiger.out
+	rm -f ck3-tiger.out images.txt
 
 .PHONY: clean
 clean: clean-download clean-convert clean-generate clean-build
@@ -47,6 +51,10 @@ clean: clean-download clean-convert clean-generate clean-build
 tiger:
 	ck3-tiger --no-color . > ck3-tiger.out
 	cat ck3-tiger.out
+
+.PHONY: thumbnail
+thumbnail:
+	convert images/Jean_Leon_Gerome_Selling_Slaves_in_Rome.jpg -resize 1024x1024^ -gravity south -extent 1024x1024 thumbnail.png
 
 .PHONY: update-version
 update-version:

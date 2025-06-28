@@ -44,9 +44,7 @@ while IFS=';' read -r converted_filename original_filename url gravity crop_x cr
 	dimensions=$(identify -format "%w %h" "$input_file")
 	width=$(echo $dimensions | cut -d' ' -f1)
 	height=$(echo $dimensions | cut -d' ' -f2)
-	if [ -n "$crop_x" ] && [ -n "$crop_y" ]; then
-		[ -z "$crop_width" ] && crop_width=$((width - crop_x))
-		[ -z "$crop_height" ] && crop_height=$((height - crop_y))
+	if [ -n "$crop_width" ] && [ -n "$crop_height" ]; then
 		width=$crop_width
 		height=$crop_height
 	fi
