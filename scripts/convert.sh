@@ -13,12 +13,13 @@ TV_THRESHOLD="1.4"
 mkdir -p "$OUTPUT_DIR"
 
 # Read CSV and process each line
-while IFS=';' read -r converted_filename original_filename url gravity crop_x crop_y crop_width crop_height; do
+while IFS=';' read -r converted_filename original_filename url fill gravity crop_x crop_y crop_width crop_height; do
 	# Skip empty lines and comments
 	[ -z "$converted_filename" ] && continue
 	[[ "$converted_filename" =~ ^[[:space:]]*# ]] && continue
 
-	# Set default gravity if empty
+	# Set fill and gravity if empty
+	[ -z "$fill" ] && fill="yes"
 	[ -z "$gravity" ] && gravity="center"
 
 	# Determine output file
@@ -50,24 +51,31 @@ while IFS=';' read -r converted_filename original_filename url gravity crop_x cr
 	fi
 	aspect_ratio=$(echo "scale=3; $width / $height" | bc -l)
 
-	# Determine target size
-	if (( $(echo "$aspect_ratio <= $SQUARE_THRESHOLD" | bc -l) )); then
-		target_size="1080x1080"
-	elif (( $(echo "$aspect_ratio <= $TV_THRESHOLD" | bc -l) )); then
-		target_size="1440x1080"
+	# Determine target size and fit / fill
+	if [ "$fill" = "yes" ]; then
+		if (( $(echo "$aspect_ratio <= $SQUARE_THRESHOLD" | bc -l) )); then
+			target_size="1080x1080"
+		elif (( $(echo "$aspect_ratio <= $TV_THRESHOLD" | bc -l) )); then
+			target_size="1440x1080"
+		else
+			target_size="1920x1080"
+		fi
+		ffg="^ -gravity $gravity -extent ${target_size}"
 	else
 		target_size="1920x1080"
+		ffg=""
+	fi
+
+	# Determine crop
+	if [ -n "$crop_x" ] && [ -n "$crop_y" ] && [ -n "$crop_width" ] && [ -n "$crop_height" ]; then
+		crop="-crop ${crop_width}x${crop_height}+${crop_x}+${crop_y} +repage "
+	else
+		crop=""
 	fi
 
 	# Determine convert command
 	defines="-define dds:mipmaps=0"
-	if [ -n "$crop_x" ] && [ -n "$crop_y" ]; then
-		# Crop from coordinates, then resize with the specified gravity
-		convert_cmd="convert \"$input_file\" -crop ${crop_width}x${crop_height}+${crop_x}+${crop_y} +repage -resize ${target_size}^ -background black -gravity $gravity -extent 1920x1080 $defines \"$output_file\""
-	else
-		# Just resize with the specified gravity
-		convert_cmd="convert \"$input_file\" -resize ${target_size}^ -background black -gravity $gravity -extent 1920x1080 $defines \"$output_file\""
-	fi
+	convert_cmd="convert \"$input_file\" $crop -resize ${target_size}${ffg} -background black -gravity center -extent 1920x1080 $defines \"$output_file\""
 
 	# Execute convert command
 	if eval $convert_cmd; then
