@@ -39,8 +39,11 @@ for image_file in "$IMAGES_DIR"/*.*; do
 	else
 		ratio="wide"
 	fi
+	
+	# Determine icc profile size
+	icc_size=$(identify -verbose "$image_file" | grep "Profile-icc:" | grep -o "[0-9]*" | head -1)
 
-	echo "$image_file: ${width}x${height} $resolution $ratio" >> "$INFO_FILE"
+	echo "$image_file: ${width}x${height} $resolution $ratio $icc_size" >> "$INFO_FILE"
 done
 
 echo "high: $(cat $INFO_FILE | grep high | wc -l), medium: $(cat $INFO_FILE | grep medium | wc -l), low: $(cat $INFO_FILE | grep low | wc -l)"
